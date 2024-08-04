@@ -28,5 +28,5 @@ Build the project using Gradle: ./gradlew build
 ## Usage:
 
 Update the Config class with your GCP project ID and secret name.
-Run the application through a main class or via command: java -jar build/libs/your-repo.jar
+Run the application through a main class or via command: java -jar build/libs/app.jar
 The secret will be printed to the console if accessed successfully.
