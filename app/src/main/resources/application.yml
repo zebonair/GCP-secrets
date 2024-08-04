@@ -1,0 +1,8 @@
+app:
+  name: GCP Secrets
+  description: Code snippet of how to fetch secrets via secrets manager client stored on Google Cloud Platfrom
+  version: 0.0.1-SNAPSHOT
+
+GCP:
+  projectId: ${GCP_PROJECT_ID}
+  secretName: ${GCP_SECRET_NAME}
