@@ -15,10 +15,10 @@ This project provides a simple Java application for retrieving secrets from Goog
 
 ## Prerequisites:
 
-Java 8 at least (Built on 17).
-Gradle 8 (Built on 8.9)
-Access to a GCP project with Secret Manager enabled.
-Project ID and Secret Name from GCP.
+- Java 8 at least (Built on 17).
+- Gradle 8 (Built on 8.9)
+- Access to a GCP project with Secret Manager enabled.
+- Project ID and Secret Name from GCP.
 
 ## Setup:
 Clone the repository
