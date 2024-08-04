@@ -21,12 +21,14 @@ This project provides a simple Java application for retrieving secrets from Goog
 - Project ID and Secret Name from GCP.
 
 ## Setup:
-Clone the repository
-Navigate to the project directory: cd your-repo
-Build the project using Gradle: ./gradlew build
+- Clone the repository
+- Navigate to the project directory
+- Build the project using Gradle: ./gradlew build
 
 ## Usage:
 
 Update the Config class with your GCP project ID and secret name.
-Run the application through a main class or via command: java -jar build/libs/app.jar
+
+Run the application through a main class or via command: java -jar build/libs/app.jar.
+
 The secret will be printed to the console if accessed successfully.
