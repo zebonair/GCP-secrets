@@ -1,5 +1,3 @@
-
-![icons8-google-cloud-96](https://github.com/user-attachments/assets/a873f4da-897a-40a3-98af-14cf7f42d849)
 ![Secret Manager](https://github.com/user-attachments/assets/488ff568-35f7-4ac4-9913-c16551e4b8c1)
  
 # Get Secrets From Google Cloud Platform (GCP)
